@@ -1,0 +1,39 @@
+body {
+	font-family: Arial;
+	font-size: 10pt;
+}
+
+.error {
+	color: Red;
+}
+
+input[type=submit], input[type=reset] {
+	background-color: orange;
+	border: none;
+	text-decoration: none;
+	color: white;
+	padding: 10px 10px;
+	margin: 20px 20px;
+	cursor: pointer;
+	border-radius: 12px;
+}
+
+.clickme {
+    background-color: orange;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    color: #10a2ff;
+    cursor:pointer;
+}
+
+.danger {
+    background-color:orange;
+    color: #FFFFFF;
+}
+
+.danger:hover {
+    background-color:orange;
+    color: #FFFFFF;
+}
